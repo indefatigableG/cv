@@ -1,0 +1,256 @@
+.TC{
+    background-color:#ffebcd;
+}
+
+.html {
+    height: 18vh;
+    position: absolute;
+    left:200px;
+    top: 75px;
+    
+
+    
+}
+
+
+.css {
+    height: 18vh;
+    position: absolute;
+    top: 200px;
+    right: 200px;
+}
+
+.large {
+     height: 25rem;
+     position: absolute;
+     bottom: -60px  ;
+     right: 0px;
+     left: 0px;
+     margin: auto;
+
+     }
+
+body{
+   margin: 0px;
+}
+
+.TC p {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+}
+    
+.TC {
+    height: 100vh;
+    
+   
+    }
+
+.TC h1{
+    margin-bottom: 5px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0;
+    padding-top: 200px;
+    font-family: 'Amaranth', sans-serif;
+    font-size: 4rem;
+}
+
+
+span {
+    text-decoration: underline;
+}
+
+
+
+.MC {
+    background-color: #FDF6E8;
+
+}
+
+.MC p{
+    color: #6B5B3B;
+    font-family: 'Hind', sans-serif;
+    text-align: justify;
+    
+}
+
+.MC h2, .MC h3{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
+}
+
+hr { 
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 6%;
+    color: #f5d1b1;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+.MC h3 {
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+.BC {
+    text-align: center;
+}
+
+/** icons **/
+
+.prof {
+    height: 10rem;
+    margin: auto;
+    display: block;
+    padding-top: 10rem;
+    margin-bottom: 3rem;
+}
+
+
+.icon {
+    width: 20%;
+}
+
+.dev, .writing {
+    float: left;
+    margin-right: 1.5rem;
+}
+
+.graphics {
+    float: right;
+    margin-left: 1.8rem;
+}
+
+.dev {
+    width: 18%;
+    margin-right: 2rem;
+}
+
+.writing {
+    margin-top: -.8rem;
+}
+
+.contact-me {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 100px auto;
+}
+
+.skill-row h3, .skill-row p {
+    text-align: justify;
+}
+
+.profile {
+    width: 50%;
+    margin: auto;
+}
+
+.BC {
+    background-color: blanchedalmond;
+}
+
+
+
+.contact-me p {
+    text-align: center;
+    margin-top: .5rem;
+    margin-bottom: 2rem;
+}
+
+.btn {
+    margin-bottom: 3rem;
+    display: inline-block;
+}
+
+.btn {
+    background: #ebc594;
+    background-image: -webkit-linear-gradient(top, #ebc594, #de9559);
+    background-image: -moz-linear-gradient(top, #ebc594, #de9559);
+    background-image: -ms-linear-gradient(top, #ebc594, #de9559);
+    background-image: -o-linear-gradient(top, #ebc594, #de9559);
+    background-image: linear-gradient(to bottom, #ebc594, #de9559);
+    -webkit-border-radius: 30;
+    -moz-border-radius: 30;
+    border-radius: 30px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ebd2b3;
+    background-image: -webkit-linear-gradient(top, #ebd2b3, #e8b184);
+    background-image: -moz-linear-gradient(top, #ebd2b3, #e8b184);
+    background-image: -ms-linear-gradient(top, #ebd2b3, #e8b184);
+    background-image: -o-linear-gradient(top, #ebd2b3, #e8b184);
+    background-image: linear-gradient(to bottom, #ebd2b3, #e8b184);
+    text-decoration: none;
+  }
+
+  .BC {
+    padding: 1.5rem 0 .5rem;
+  }
+
+  .BC a {
+    color: #6B5B3B;
+    text-decoration: none;
+    margin: 0 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+  }
+
+  .BC p {
+    color: #6B5B3B;
+    margin-top: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: small;
+  }
+
+
+
+
+/** download button**/
+.download {
+    background: #ebc594;
+    background-image: -webkit-linear-gradient(top, #ebc594, #de9559);
+    background-image: -moz-linear-gradient(top, #ebc594, #de9559);
+    background-image: -ms-linear-gradient(top, #ebc594, #de9559);
+    background-image: -o-linear-gradient(top, #ebc594, #de9559);
+    background-image: linear-gradient(to bottom, #ebc594, #de9559);
+    -webkit-border-radius: 30;
+    -moz-border-radius: 30;
+    border-radius: 30px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 1rem;
+    display: inline-block;
+  }
+  
+  .download:hover {
+    background: #ebd2b3;
+    background-image: -webkit-linear-gradient(top, #ebd2b3, #e8b184);
+    background-image: -moz-linear-gradient(top, #ebd2b3, #e8b184);
+    background-image: -ms-linear-gradient(top, #ebd2b3, #e8b184);
+    background-image: -o-linear-gradient(top, #ebd2b3, #e8b184);
+    background-image: linear-gradient(to bottom, #ebd2b3, #e8b184);
+    text-decoration: none;
+  }
+
+  .MC {
+    text-align: center;
+  }

@@ -1,0 +1,105 @@
+.TC{
+    background-color:blanchedalmond;
+}
+
+.html {
+    height: 18vh;
+    position: absolute;
+    left:200px;
+    top: 75px;
+    
+
+    
+}
+
+
+.css {
+    height: 18vh;
+    position: absolute;
+    top: 200px;
+    right: 200px;
+}
+
+.large {
+     height: 25rem;
+     position: absolute;
+     bottom: -60px  ;
+     right: 0px;
+     left: 0px;
+     margin: auto;
+
+     }
+
+body{
+   margin: 0px;
+}
+
+.TC p {
+    margin: 0px;
+    font-size: 125%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    
+}
+    
+.TC {
+    height: 100vh;
+    
+   
+    }
+
+.TC h1{
+    margin-bottom: 5px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 200px;
+    font-family: 'Amaranth', sans-serif;
+    font-size: 4rem;
+}
+
+
+
+span {
+    text-decoration: underline;
+}
+
+
+.MC {
+    background-color: #FDF6E8;
+
+}
+
+.MC p{
+    color: #6B5B3B;
+    font-family: 'Hind', sans-serif;
+    width: 50%;
+    text-align: justify;
+    margin: auto;
+}
+
+.MC h2, .MC h3{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+
+}
+
+hr { 
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 6%;
+    color: rgb(245, 209, 177);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.MC h3 {
+    margin-top: .5em;
+    margin-bottom: .5em;
+}
+
+.BC {
+    text-align: center;
+}
+
